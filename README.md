@@ -1,3 +1,11 @@
+# Please Refer to these Credentials before starting the Lab for **Microsoft Azure**:
+* Email/Username: <inject key="AzureAdUserEmail"></inject>
+* Password - <inject key="AzureAdUserPassword"></inject>
+
+# Please Refer to these Credentials before starting the Lab for **AWS Console**:
+* Email/Username: <inject key="AWSUserEmail"></inject>
+* Password - <inject key="AWSUserPassword"></inject>
+
 # Step to be followed by the user while registering for the Lab:
 
 1.	Open the Bit.ly URL provided by the instructor and fill the details and submit the registration Form.
