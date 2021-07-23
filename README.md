@@ -1,10 +1,10 @@
 # Please Refer to these Credentials before starting the Lab for **Microsoft Azure**:
-* Email/Username: <inject key="AzureAdUserEmail"></inject>
-* Password - <inject key="AzureAdUserPassword"></inject>
+* Username: <inject key="AzureAdUserEmail"></inject>
+* Password: <inject key="AzureAdUserPassword"></inject>
 
 # Please Refer to these Credentials before starting the Lab for **AWS Console**:
-* Email/Username: <inject key="AWSUserEmail"></inject>
-* Password - <inject key="AWSUserPassword"></inject>
+* Username: <inject key="AWSUserEmail"></inject>
+* Password: <inject key="AWSUserPassword"></inject>
 
 # Step to be followed by the user while registering for the Lab:
 
