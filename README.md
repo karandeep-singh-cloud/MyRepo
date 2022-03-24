@@ -42,7 +42,7 @@
  
 
 6.	The user can now use the Sign-in link, Username, and Password to login to the AWS Environment.
-![image](https://user-images.githubusercontent.com/85232046/126780852-648e8f2e-d3e3-4494-af15-a526e6f947f9.png)
+![image](https://user-images.githubusercontent.com/85232046/159861564-941215a8-58f2-4447-b59c-27e00dc69add.png)
 
  
 
