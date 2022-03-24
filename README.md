@@ -22,7 +22,7 @@
 
 3.	User can click on the first lab and once the user clicks on the lab, another tab will be opened with the launch lab button, the user can click on the launch lab button and the lab environment will be provisioned in a couple of minutes.
 ![image](https://user-images.githubusercontent.com/85232046/159857345-f5c1aa5e-48f5-4ce5-8191-2afe12b21d77.png)
-![image](https://user-images.githubusercontent.com/85232046/159859714-0ac4e5ac-5217-494e-a7a4-4320b15b55ff.png)
+![image](https://user-images.githubusercontent.com/85232046/159859927-8c7b379f-99d5-4964-a859-60b1f57e240b.png)
 
  
 
@@ -37,7 +37,7 @@
 
 
 5. Once user is done with the current lab he can go back to the previous tab and select the next lab in the list to directly launch the lab.
-![image](https://user-images.githubusercontent.com/85232046/126780814-df1eef24-e22b-46e5-adb6-bedc18ab462f.png)
+![image](https://user-images.githubusercontent.com/85232046/159859966-6bcec539-7dcb-446c-82fc-7e2c02d36da5.png)
 
 
  
