@@ -3,12 +3,12 @@
 
 **1**	:Once user is done with the Azure lab, user can go back to the previous tab and "click" on the AWS lab name.
 
-![image](https://user-images.githubusercontent.com/85232046/159879595-05ca8114-35fa-4907-8165-763c9121da3c.png)
+![image](https://user-images.githubusercontent.com/85232046/159903963-9ccd3a9d-b98f-429b-892e-3a3d5053d3f7.png)
 
 **2**: Now click on **LAUNCH LAB** button to activate the lab environment.
 
-![image](https://user-images.githubusercontent.com/85232046/159878673-e6c73993-a38f-44c0-84d3-53feb402848e.png)
+![image](https://user-images.githubusercontent.com/85232046/159903291-5a2019c2-fe77-4c89-997f-c07c15fa6dc6.png)
 
 **3**:	The user can now use the given Sign-in link, Username, and Password to login to the AWS console.
 
-![image](https://user-images.githubusercontent.com/85232046/159879741-375dc57b-af7c-4ea3-9cdc-0f58c3464a9d.png)
+![image](https://user-images.githubusercontent.com/85232046/159903441-f500ece7-9d30-4780-817d-e9168dc0bddc.png)
