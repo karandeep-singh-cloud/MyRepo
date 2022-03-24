@@ -29,7 +29,7 @@
  
 
 4.	The user can now login to the Jump VM using the VM DNS Name, VM Admin Username, and VM Admin Password. The user can later use the provided “Username” and “Password” to login to Azure Portal.
-![image](https://user-images.githubusercontent.com/85232046/126780786-abbd4f75-7a5c-4230-9b75-9f229c099012.png)
+![image](https://user-images.githubusercontent.com/85232046/159860686-25ad1ac3-3678-44ce-bc99-70dcbe07b3a8.png)
 
 
  
