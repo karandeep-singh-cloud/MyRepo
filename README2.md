@@ -1,8 +1,8 @@
 # Steps to be followed by the user to activate and access lab on AWS.
 
 
-**1**	:Once user is done with the Azure lab, user can go back to the previous tab and "click" on the AWS lab name
-https://user-images.githubusercontent.com/85232046/159860892-b8e30feb-269d-4a99-908f-84d11af148c6.png
+**1**	:Once user is done with the Azure lab, user can go back to the previous tab and "click" on the AWS lab name.
+![image](https://user-images.githubusercontent.com/85232046/159879595-05ca8114-35fa-4907-8165-763c9121da3c.png)
 
 Step **2**: Now click on **LAUNCH LAB** button to activate the lab environment.
 ![image](https://user-images.githubusercontent.com/85232046/159878673-e6c73993-a38f-44c0-84d3-53feb402848e.png)
