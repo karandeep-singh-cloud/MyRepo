@@ -37,7 +37,7 @@
 
 
 5. Once user is done with the current lab he can go back to the previous tab and select the next lab in the list to directly launch the lab.
-![image](https://user-images.githubusercontent.com/85232046/159859966-6bcec539-7dcb-446c-82fc-7e2c02d36da5.png)
+![image](https://user-images.githubusercontent.com/85232046/159860892-b8e30feb-269d-4a99-908f-84d11af148c6.png)
 
 
  
