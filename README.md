@@ -1,22 +1,7 @@
-# Step to be followed by the user while registering for the Lab:
-
-**1**:	Open the Bit.ly URL provided by the instructor and fill the details and submit the registration Form.
-![image](https://user-images.githubusercontent.com/85232046/126780702-c0bdf1fb-ca87-405d-b45e-4d305d1e1aa0.png)
-
- 
-
-**2**:	Once the user submits registration form, they will be able to see the Azure and AWS Environments.
-![image](https://user-images.githubusercontent.com/85232046/126780724-74b95a51-0583-4ea2-b501-fd752d2e38e3.png)
+# Steps to be followed by the user to activate and access lab on Azure.
 
 
- 
-
-
-
-
-
-
-**3**	:User can click on the first lab and once the user clicks on the lab, another tab will be opened with the launch lab button, the user can click on the launch lab button and the lab environment will be provisioned in a couple of minutes.
+**1**	:User can click on the first lab and once the user clicks on the lab, another tab will be opened with the launch lab button, the user can click on the launch lab button and the lab environment will be provisioned in a couple of minutes.
 ![image](https://user-images.githubusercontent.com/85232046/159861300-b45497c2-6de8-40ef-98b7-40ef3b6bff49.png)
 ![image](https://user-images.githubusercontent.com/85232046/159861123-7f2ee9c3-add5-4439-a903-1c6a2408e201.png)
  
