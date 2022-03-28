@@ -7,8 +7,8 @@
 
 **2**: Now click on **LAUNCH LAB** button to activate the lab environment.
 
-![image](https://user-images.githubusercontent.com/85232046/160334277-01a7e1f5-695d-42ec-acc7-e299d85a2d72.png)
+![image](https://user-images.githubusercontent.com/85232046/160364379-84e73ed3-9904-4fcf-9edb-b94a6e45a255.png)
 
 **3**:	The user can now use the given Sign-in link, Username, and Password to login to the AWS console.
 
-![image](https://user-images.githubusercontent.com/85232046/160334331-847da506-4765-46eb-a2ae-f9cc71694a9a.png)
+![image](https://user-images.githubusercontent.com/85232046/160364987-4d726942-1204-494d-ab22-0b8c894da66b.png)
