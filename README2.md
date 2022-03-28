@@ -3,7 +3,7 @@
 
 **1**	:Once user is done with the Azure lab, user can go back to the previous tab and "click" on the AWS lab name.
 
-![image](https://user-images.githubusercontent.com/85232046/160370072-795fa960-a869-40a5-a92c-950b0eb7310b.png)
+![Uploading image.png…]()
 
 **2**: Now click on **LAUNCH LAB** button to activate the lab environment.
 
