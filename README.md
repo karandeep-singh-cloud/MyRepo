@@ -14,4 +14,4 @@ Step **2**: Now click on **LAUNCH LAB** button to activate the lab environment.
  
 **3**:	The user can now login to the Jump VM using the VM DNS Name, VM Admin Username, and VM Admin Password. The user can later use the provided “Username” and “Password” to login to Azure Portal.
 
-![image](https://user-images.githubusercontent.com/85232046/160334072-e15a6dd2-b8ac-469b-bec1-182c784bd3da.png)
+![image](https://user-images.githubusercontent.com/85232046/160375178-d156da82-8451-44ac-b448-16e7deb0cf08.png)
