@@ -15,3 +15,5 @@ Step **2**: Now click on **LAUNCH LAB** button to activate the lab environment.
 **3**:	The user can now login to the Jump VM using the VM DNS Name, VM Admin Username, and VM Admin Password. The user can later use the provided “Username” and “Password” to login to Azure Portal.
 
 ![image](https://user-images.githubusercontent.com/85232046/160386083-ed98b2ab-d85d-45e7-8ff5-b8025e64fb86.png)
+
+**>** Now, let's begin with Hands-on lab on AWS.
