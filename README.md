@@ -1,3 +1,7 @@
+# Overview :-
+
+**>** This lab is divided into two sections: one for Azure Hands-on Lab and another for AWS Hands-on Lab. Let's begin with the Azure lab first and then we will move forward with AWS.
+
 # Steps to be followed by the user to activate and access lab on Azure.
 
 **1**	:User can click on the first lab and once the user clicks on the lab, another tab will be opened with the launch lab button.
