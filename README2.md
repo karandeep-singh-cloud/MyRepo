@@ -11,4 +11,4 @@
 
 **3**:	The user can now use the given Sign-in link, Username, and Password to login to the AWS console.
 
-![image](https://user-images.githubusercontent.com/85232046/160364987-4d726942-1204-494d-ab22-0b8c894da66b.png)
+![image](https://user-images.githubusercontent.com/85232046/160365310-d061973b-2829-425f-891c-7a7b94600944.png)
